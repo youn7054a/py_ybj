@@ -1,2 +1,2 @@
 def test_test():
-    assert 11111 == 11111
+    assert 1111 == 1111
