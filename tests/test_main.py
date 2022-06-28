@@ -1,4 +1,3 @@
-import sys
 import main
 
 def test_test():
