@@ -1,4 +1,2 @@
-import main
-
 def test_test():
-    assert 1 == 1
+    assert 111 == 111
