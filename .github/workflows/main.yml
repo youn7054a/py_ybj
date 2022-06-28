@@ -5,6 +5,7 @@ on: # 아래의 상황에서 action을 시작한다.
     branches:
       - test1
       - 'feature/**'
+      - abcd
     paths-ignore:
       - 'workflows/**'      
   pull_request:
