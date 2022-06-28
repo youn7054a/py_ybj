@@ -4,7 +4,7 @@ on: # 아래의 상황에서 action을 시작한다.
   push:
     branches:
       - test1
-      - test2
+      - 'feature/**'
   pull_request:
     branches:
       - test1
