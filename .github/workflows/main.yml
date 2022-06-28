@@ -1,4 +1,4 @@
-name: UnitTest
+name: MatchMakerTest
 
 on: # 아래의 상황에서 action을 시작한다.
   push:
