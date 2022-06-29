@@ -1,1 +1,1 @@
-pytest
+git+https://github.com/kc-softmax/mas-game-helper.git@main

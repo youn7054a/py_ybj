@@ -1,5 +1,1 @@
-def test():
-    return 1
-
-
-print(111)
+print(1)
