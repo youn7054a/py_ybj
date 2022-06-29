@@ -63,5 +63,5 @@ websockets==10.0
 
 # https://youn7054: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@github.com/kc-softmax/mas-game-helper.git@main
 
-# git+https://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@github.com/kc-softmax/mas-game-helper.git@main
-git+https://${{ secrets.TOKEN }}@github.com/kc-softmax/mas-game-helper.git@main
+git+https://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@github.com/kc-softmax/mas-game-helper.git@main
+#git+https://${{ secrets.TOKEN }}@github.com/kc-softmax/mas-game-helper.git@main
