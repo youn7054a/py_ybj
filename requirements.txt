@@ -55,5 +55,13 @@ vine==5.0.0
 watchgod==0.7
 wcwidth==0.2.5
 websockets==10.0
-git+ssh://git@github.com/kc-softmax/mas-game-helper.git@main
+#git+ssh@github.com:kc-softmax/mas-game-helper.git@main
+# git+ssh://git@github.com/kc-softmax/mas-game-helper.git@main
+# git+https://github.com/kc-softmax/mas-game-helper.git@main
 
+# https://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@github.com/kc-softmax/mas-game-helper.git@main
+
+# https://youn7054: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@github.com/kc-softmax/mas-game-helper.git@main
+
+# git+https://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@github.com/kc-softmax/mas-game-helper.git@main
+git+https://${GITHUB_TOKEN}@github.com/kc-softmax/mas-game-helper.git@main
