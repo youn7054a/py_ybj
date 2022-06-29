@@ -28,6 +28,6 @@ jobs: # actoion이 시작될 경우 진행될 과정
       - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
-          pip install git+https://${GITHUB_TOKEN}@github.com/kc-softmax/mas-game-helper.git@main
+          pip install -r requirements.txt
       - name: Run tests with pytest
         run: pytest
