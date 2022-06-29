@@ -55,4 +55,4 @@ vine==5.0.0
 watchgod==0.7
 wcwidth==0.2.5
 websockets==10.0
-#git+https://github.com/kc-softmax/mas-game-helper.git@main
+git+https://github.com/kc-softmax/mas-game-helper.git@main
