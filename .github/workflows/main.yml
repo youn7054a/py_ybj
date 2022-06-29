@@ -21,6 +21,8 @@ jobs: # actoion이 시작될 경우 진행될 과정
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
+        with:
+          repo-token: ${{ secrets.TOKEN }}
       - name: Install Python 3
         uses: actions/setup-python@v1
         with:
