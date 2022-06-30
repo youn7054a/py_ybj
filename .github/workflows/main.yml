@@ -32,3 +32,4 @@ jobs: # actoion이 시작될 경우 진행될 과정
           pip install git+https://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@github.com/kc-softmax/mas-game-helper.git@main
       - name: Run tests with pytest
         run: pytest
+
